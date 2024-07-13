@@ -6,6 +6,13 @@ body {
     font-family:Arial, Helvetica, sans-serif;
 }
 
+h1:hover {
+    color: blueviolet;
+    background-color:aqua;
+    border-radius: 50vb;
+    border-style: none;
+}
+
 .timer {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
